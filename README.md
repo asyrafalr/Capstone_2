@@ -46,3 +46,5 @@ Pertanyaan Masalah:
     - Tarif khusus seperti JFK dan Newark memiliki biaya tambahan yang lebih tinggi, terutama tolls_amount dan congestion_surcharge, yang mencerminkan biaya tambahan akibat lokasi atau kebutuhan spesifik rute
     - Ada hubungan positif antara jarak perjalanan dan biaya seperti tolls_amount. Perjalanan yang lebih jauh cenderung menarik biaya tambahan yang lebih tinggi, terutama biaya tol
     - Pembayaran dengan kartu kredit sering kali memiliki biaya tambahan yang lebih tinggi dibandingkan dengan pembayaran tunai. Transaksi kartu kredit lebih mudah untuk dikenakan biaya tambahan karena kemudahan pelacakan dan pemrosesan
+  
+   [Link Tableau](https://public.tableau.com/views/NYCTLC_17140629468140/Total?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
